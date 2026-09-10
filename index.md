@@ -1,5 +1,3 @@
----
-title: Welcome to my blog!
 # Welcome to My Digital Garden! 🚀
 
 Hi there! I'm glad you found your way here. This is my personal corner of the internet where I share my thoughts, document my learning journey, and showcase projects I'm working on.
@@ -29,5 +27,3 @@ I'm always open to interesting conversations, collaboration, or feedback.
 * Say hello via [Email](mailto:your.email@example.com)
 
 Thank you for stopping by! Stay tuned for upcoming posts.
-
----
